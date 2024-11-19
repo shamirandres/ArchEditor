@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"A:/ArchEditor/ARC/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"A:/ArchEditor/ARC/Content/StarterContent/Props/BP_Chair.uasset",
+				"A:/ArchEditor/ARC/Content/StarterContent/DataAssets/DA_Furniture.uasset",
+				"A:/ArchEditor/ARC/Content/Main.umap",
+				"A:/ArchEditor/ARC/Content/StarterContent/Blueprints/BP_ConfigGameMode.uasset",
+				"A:/ArchEditor/ARC/Content/StarterContent/Props/BP_CornerFrame.uasset",
+				"A:/ArchEditor/ARC/Content/StarterContent/Props/BP_Couch.uasset",
+				"A:/ArchEditor/ARC/Content/StarterContent/Props/BP_DynamicActor.uasset",
+				"A:/ArchEditor/ARC/Content/StarterContent/Props/Materials/M_Chair.uasset"
+			]
+		}
+	]
+}
